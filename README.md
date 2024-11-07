@@ -1,0 +1,1 @@
+# You know it, you love it, or maybe you don't! This AI can tell the difference! Just by reading a given text, it can detect the sentiment involved and tell you waht it is - whether it's positive, negative or neutral.
