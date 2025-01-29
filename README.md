@@ -20,4 +20,4 @@ sentiment = blob.sentiment.polarity
 print(sentiment)
 ```
 This is the big idea of the code - it can save the code as a processable "blob" that is then run through a function that goes through tokenization (taking each word individually, studying its relationships with surrounding words, and using these combined to make a prediction) in order to study the feeling of the text. Now you know how it works - go check your vibe today!
-- Yodahe Wondimu, Programmer
+- Yodahe Wondimu, Computer Scientist
